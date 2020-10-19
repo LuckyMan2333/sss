@@ -4,7 +4,7 @@ public class Main {
 
     @Test
     public void testHelloWrold() {
-        System.out.println("哈哈啊哈鬲");
+        System.out.println("给爷上去");
 	
     }
 }
