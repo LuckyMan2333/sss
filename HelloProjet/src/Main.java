@@ -4,11 +4,6 @@ public class Main {
 
     @Test
     public void testHelloWrold() {
-        System.out.println("给爷上去");
-	System.out.println("哈啊哈");
-
-System.out.println("哈啊哈");
-System.out.println("芜湖起飞");
-	
+        System.out.println("那你是神魔恋");
     }
 }
