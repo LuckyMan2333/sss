@@ -8,7 +8,7 @@ public class Main {
 	System.out.println("哈啊哈");
 
 System.out.println("哈啊哈");
-System.out.println("哈啊哈");
+System.out.println("芜湖起飞");
 	
     }
 }
