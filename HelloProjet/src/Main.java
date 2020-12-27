@@ -2,8 +2,8 @@ import org.junit.Test;
 
 public class Main {
 
-    @Test
-    public void testHelloWrold() {
-        System.out.println("那你是神魔恋");
+    @测试
+    公共 无效 estHelloWrold（）
+        System.out.println("那你是捞森的捞");
     }
 }
